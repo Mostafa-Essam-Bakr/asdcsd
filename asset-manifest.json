@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asdcsd.git/static/css/main.f855e6bc.css",
+    "main.js": "/asdcsd.git/static/js/main.f9da4ca3.js",
+    "static/js/453.524bfc97.chunk.js": "/asdcsd.git/static/js/453.524bfc97.chunk.js",
+    "index.html": "/asdcsd.git/index.html",
+    "main.f855e6bc.css.map": "/asdcsd.git/static/css/main.f855e6bc.css.map",
+    "main.f9da4ca3.js.map": "/asdcsd.git/static/js/main.f9da4ca3.js.map",
+    "453.524bfc97.chunk.js.map": "/asdcsd.git/static/js/453.524bfc97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f9da4ca3.js"
+  ]
+}
